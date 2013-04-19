@@ -4,4 +4,5 @@
 /spec/fixtures/.tmp
 /spec/fixtures/Puppetfile.lock
 /spec/fixtures/modules
+!/spec/fixtures/modules/emacs_mac
 /spec/fixtures/vendor
