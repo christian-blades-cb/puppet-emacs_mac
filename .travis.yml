@@ -3,3 +3,6 @@ script: "./script/cibuild"
 gemfile: "this/does/not/exist"
 rvm:
   - "1.8.7"
+notifications:
+  campfire:
+    secure: "Rb1rG3U8E0+XyVmfj29I1msMnYzOu8V2pIa/4qSjTB+yY6jJgWciXLEj2qI4\n9R9hK+xYcBpkn3fh0yBvXjZsyS6jP0FKrnYagCDa3HShQUpZ7bxpO3DBjZ1K\ntoa4kQrIMrY0xQ5jd9VUVtfvaJtBemqFfV0w7W6zg5Oexm9Cpr8="
